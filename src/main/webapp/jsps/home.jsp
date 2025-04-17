@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Mithun Technologies Training</h1>
 <h1 align="center">Phone Number: +91 9980923216</h1>
-<h1 align="center">Mithun Technologies is a Very Good   hy Training  for DevOps, Cloud, Kubernetes</h1>
+<h1 align="center">Mithun Technologies is a Very Good   hy Training  for DevOps, Cloud, Kubernetes and automation</h1>
 
 <h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>
 
